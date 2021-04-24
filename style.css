@@ -1,0 +1,21 @@
+.jumbotron{
+    padding-top: 5rem;
+    background-color: rgba(3, 100, 100, 0.938);
+}
+#about{
+    background-color: white;
+}
+#card{
+    background-color: #036464;
+}
+footer{
+    background-color: #008db8;
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+section{
+    padding-top:5rem ;
+}
